@@ -111,4 +111,4 @@ A list of tools used to collect, read and search email evidence. Prices were che
 
 ## License
 
-Copyright (c) 2026 SysTools Group. Licensed under CC BY 4.0.
+Copyright (c) 2026 alexmorgansql. Licensed under the MIT License (MIT).
