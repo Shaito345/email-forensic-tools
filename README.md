@@ -4,6 +4,8 @@
 
 A list of tools used to collect, read and search email evidence. Prices were checked on 17 October 2026 and can change, so confirm on the vendor site. We are the team behind MailXaminer at SysTools, and we mark it in the list. Missing a tool? Open an issue.
 
+See also the Email Header Cheat Sheet (<https://github.com/Shaito345/email-header-cheatsheet>) for a plain guide to reading email headers.
+
 [#free](#free) | [#paid](#paid) | [#license](#license)
 
 ## Free
