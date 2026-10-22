@@ -113,4 +113,4 @@ See also the Email Header Cheat Sheet (<https://github.com/Shaito345/email-heade
 
 ## License
 
-Copyright (c) 2026 alexmorgansql. Licensed under the MIT License (MIT).
+Copyright (c) 2026 alexmorgan. Licensed under the MIT License (MIT).
